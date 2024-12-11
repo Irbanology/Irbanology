@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irbanology" alt="irbanology" /></a> </p>
 
-- 🔭 I’m currently working on my **Web App Developer**
+- 🔭 I’m currently working on my **Web App : Hisaab-Kitaab**
 
 - 💬 Ask me about **Tailwind , js , react**
 
